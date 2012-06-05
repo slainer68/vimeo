@@ -4,12 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "vimeo"
+  s.name = "slainer68_vimeo"
   s.version = "1.5.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Matt Hooks"]
-  s.date = "2012-03-29"
+  s.date = "2012-06-05"
   s.description = "A full featured Ruby implementation of the Vimeo API."
   s.email = "matthooks@gmail.com"
   s.extra_rdoc_files = [
@@ -192,7 +192,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--main", "README.rdoc", "--inline-source", "--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubyforge_project = "vimeo"
-  s.rubygems_version = "1.8.10"
+  s.rubygems_version = "1.8.11"
   s.summary = "A full featured Ruby implementation of the Vimeo API."
 
   if s.respond_to? :specification_version then
